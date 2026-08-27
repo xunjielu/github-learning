@@ -9,4 +9,6 @@ Learning Progress:
 * Git clone
 * Git status
 * Git diff
+* Git add
+* Git commit
 
