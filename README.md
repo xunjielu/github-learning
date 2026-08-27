@@ -1,4 +1,4 @@
-# github-learning - Main Version
+# Git and GitHub Learning
 
 my github learning repository
 
