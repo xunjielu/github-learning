@@ -2,6 +2,8 @@
 
 my github learning repository
 
+Learning Git and GitHub step by step.
+
 
 
 Learning Progress:
