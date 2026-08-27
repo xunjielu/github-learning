@@ -25,3 +25,4 @@ Learning Progress:
 ## GitHub Learning
 - Remote branches
 - Pull Requests
+- Code Review
